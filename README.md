@@ -21,6 +21,3 @@ Me chamo Matheus Henrique, tenho 21 anos e sou natural de Curitiba - Paraná. Co
         />
     </a>
 </p>
-
-
----
