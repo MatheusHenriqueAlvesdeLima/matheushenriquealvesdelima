@@ -2,7 +2,7 @@
 
 **`Suporte Técnico Informática`**
 
-Me chamo Matheus Henrique, tenho 21 anos e sou natural de Curitiba - Paraná. Concluí o ensino médio em Cívico Militar Chico Mendes. Atualmente, estou cursando Engenharia de Software na Universidade Estácio. Sou apaixonado por tecnologia e estou sempre buscando evoluir meus conhecimentos e desenvolver novas habilidades na área de software e infraestrutura.
+Me chamo Matheus Henrique, tenho 21 anos e sou natural de Curitiba - Paraná. Concluí o ensino médio no Colégio Cívico Militar Chico Mendes. Atualmente, estou cursando Engenharia de Software na Universidade Estácio. Sou apaixonado por tecnologia e estou sempre buscando evoluir meus conhecimentos e desenvolver novas habilidades na área de software e infraestrutura.
 
 
 <p align="left">
@@ -10,7 +10,7 @@ Me chamo Matheus Henrique, tenho 21 anos e sou natural de Curitiba - Paraná. Co
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://www.instagram.com/m4theush3nrique/"
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
