@@ -10,7 +10,7 @@ Me chamo Matheus Henrique, tenho 21 anos e sou natural de Curitiba - Paraná. Co
         <img 
             alt="Instagram" 
             title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/Instagram-@m4theush3nrique-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
 </p>
