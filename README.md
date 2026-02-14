@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👨‍💻 Matheus Henrique
 
-<!--
-**MatheusHenriqueAlvesdeLima/matheushenriquealvesdelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+📍 Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+Sou estudante de Engenharia de Software, interessado em tecnologia, desenvolvimento e aprendizado contínuo.
+
+Busco evoluir constantemente, aprimorar minhas habilidades e participar de projetos que agreguem experiência prática e crescimento profissional.
+
+---
+
+## Formação
+
+**Engenharia de Software**  
+[Universidade Estácio]  
+[Fevereiro de 2022] – [Junho de 2026]
+
+---
+
+## Objetivo
+
+Construir uma carreira sólida na área de tecnologia, contribuindo com dedicação, responsabilidade e vontade de aprender.
+
+---
+
+## Contato
+
+📧 [matheus.eng.sw@gmail.com]  
+💼 [LinkedIn (opcional)]
